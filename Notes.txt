@@ -1,4 +1,5 @@
 
+Linkup korar jonno at use korte hobe>>=================
 
 new mysql('hostname', 'username', 'password', 'databasename');
 
